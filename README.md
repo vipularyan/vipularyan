@@ -5,10 +5,15 @@
 I'm a **Developer and AI Enthusiast** with a passion for **leveraging modern frameworks and running local AI models on Linux**. I enjoy transitioning from established enterprise patterns to fast, scalable web architectures.
 
 * 🔭 I'm currently working on: **Experimenting with optimizing and running various local AI models on Linux.**
+* **Recent Python Projects:**
+    * Developed a tool to fetch historical data from the **National Stock Exchange (NSE)** for custom date ranges.
+    * Built two distinct chatbots using **OpenAI API** and **DeepSeek API**.
 * 🌱 I'm currently learning: **Advanced Linux administration and performance tuning for AI workloads.**
 * 👯 I'm looking to collaborate on: **Projects involving Next.js/FastAPI integration or open-source tools for local machine learning environments.**
 * 💬 Ask me about: **MVC architecture (.NET Framework), C#, PostgreSQL, or modern full-stack authentication (Next.js/FastAPI/JWT).**
 * ⚡ Fun fact: **I made the jump from full-stack .NET development to integrating high-performance local AI.**
+
+---
 
 ---
 
