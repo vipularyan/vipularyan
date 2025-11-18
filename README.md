@@ -36,7 +36,7 @@ I'm a **Developer and AI Enthusiast** with a passion for **leveraging modern fra
 | **Website** | [Your Portfolio/Blog URL] |
 | **LinkedIn** | [Your LinkedIn Profile URL] |
 | **Twitter** | [Your Twitter Handle URL] |
-| **Email** | [Your Email Address] |
+| **Email** | [E-mail](vipularyany@gmail.com) |
 | **Youtube** | [Vipul Aryan Yadav](https://www.youtube.com/@VipulAryanYadav) |
 
 ---
