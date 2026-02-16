@@ -10,7 +10,7 @@ I'm a **Developer and AI Enthusiast** with a passion for **leveraging modern fra
     * Built two distinct chatbots using **OpenAI API** and **DeepSeek API**.
 * 🌱 I'm currently learning: **Advanced Linux administration and performance tuning for AI workloads.**
 * 👯 I'm looking to collaborate on: **Projects involving Next.js/FastAPI integration or open-source tools for local machine learning environments.**
-* 💬 Ask me about: **MVC architecture (.NET Framework), C#, PostgreSQL, or modern full-stack authentication (Next.js/FastAPI/JWT).**
+* 💬 Ask me about: **MVC architecture (.NET Framework, .NET Core), C#, PostgreSQL, or modern full-stack authentication (Next.js/FastAPI/JWT).**
 * ⚡ Fun fact: **I made the jump from full-stack .NET development to integrating high-performance local AI.**
 
 ---
