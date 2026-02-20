@@ -52,11 +52,11 @@ I'm a **Developer and AI Enthusiast** with a passion for **leveraging modern fra
 
 ⭐️ From Vipul Yadav
 ## Hi there 👋
-
+<!--
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=date&legend=top-left)](https://www.star-history.com/#Shubhamsaboo/awesome-llm-apps&type=date&legend=top-left)
-<!--
+
 **vipularyan/vipularyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
