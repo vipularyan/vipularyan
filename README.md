@@ -33,8 +33,8 @@ I'm a **Developer and AI Enthusiast** with a passion for **leveraging modern fra
 
 | Platform | Link |
 | :--- | :--- |
-<!--| **Website** | [Your Portfolio/Blog URL] |
-| **LinkedIn** | [Your LinkedIn Profile URL] |
+| **Website** | [Portfolio](https://vipularyan.github.io) |
+<!--| **LinkedIn** | [Your LinkedIn Profile URL] |
 | **Twitter** | [Your Twitter Handle URL] |-->
 | **Email** | [E-mail](mailto:vipularyany@gmail.com) |
 | **Youtube** | [Vipul Aryan Yadav](https://www.youtube.com/@VipulAryanYadav) |
